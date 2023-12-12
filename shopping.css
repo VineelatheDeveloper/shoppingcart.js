@@ -1,0 +1,38 @@
+table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+label
+{
+    color:green;
+}
+input{
+    border-radius: 5px;
+    border-color: aquamarine;
+    margin-top: 50px;
+}
+button{
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color:aquamarine ;
+    color: white;
+    height: 30px;
+    width: 150px;
+    border-color: aquamarine;
+}
+h1{
+    color:green;
+}
+body{
+    background-color: azure;
+}
